@@ -1,6 +1,9 @@
-### Description
+### Description of the assignment
 
-A simple portfolio template for developer/designers built with React. 
+Design your personal webpage describing about you, your hobbies, native 
+village/town, your family members, schooling, college life, educational qualifications, 
+certificates/rewards, and your valuable contributions to the society using ReactJS 
+library 
 
 ### Features
 
