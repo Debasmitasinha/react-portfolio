@@ -1,4 +1,4 @@
-### Description of the assignment
+### Description of the Assignment 1
 
 Design your personal webpage describing about you, your hobbies, native 
 village/town, your family members, schooling, college life, educational qualifications, 
@@ -27,10 +27,6 @@ Install required dependencies
 Start the server
 
 <pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
