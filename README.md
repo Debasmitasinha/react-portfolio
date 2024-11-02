@@ -24,17 +24,18 @@ Install required dependencies
 yarn install
 ```
 
-Start the server
-```powershell
-yarn start
-```
-
 If you face any error with the yarn package manager then do this:
 ```powershell
 yarn list react-scripts
 yarn add react-scripts
 yarn install
 ```
+
+Start the server
+```powershell
+yarn start
+```
+
 ### Thanks
 
 If you like this portfolio template don't forget give it a ⭐ 
