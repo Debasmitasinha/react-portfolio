@@ -17,7 +17,7 @@ library
 
 Get the code
 ```powershell
-git clone https://github.com/ubaimutl/react-portfolio.git
+git clone https://github.com/Debasmitasinha/react-portfolio.git
 ```
 Install required dependencies
 ```powershell
