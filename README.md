@@ -16,18 +16,18 @@ library
 ### Setup
 
 Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
+```powershell
+git clone https://github.com/ubaimutl/react-portfolio.git
+```
 Install required dependencies
-
-<pre>yarn install</pre>
-
+```powershell
+yarn install
+```
 
 Start the server
-
-<pre>yarn start</pre>
-
+```powershell
+yarn start
+```
 ### Thanks
 
 If you like this portfolio template don't forget give it a ⭐ 
